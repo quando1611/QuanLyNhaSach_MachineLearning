@@ -3,9 +3,7 @@
 
 
 
-<p align="center">
-  <img width="335" height="400" src="https://user-images.githubusercontent.com/75150646/173224085-9c8da3bc-ac5d-43c2-9ea5-e1251628fdcb.png">
-</p>
+
 
 
 ## 1 CHỨC NĂNG
